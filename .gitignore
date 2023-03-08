@@ -1,0 +1,13 @@
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+.gradle
+gradle/**
+build**
+*gradle*
+*.iml
+out/
+
+logs/**
+
+application.properties
